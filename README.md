@@ -29,9 +29,13 @@ number of episode and d factor and learning rate are also shown on the screen.
 
 ## QLearning numbers, states and actions 
 states : position of the agent in the maze(between and maze size) 
+
 actions : moving up, down, left, right.
+
 goal state : no flags are left on the maze and position of agent is the target position. 
+
 rewards (gui ) : hit wall - out of board - taking flag / n(flags) win ????
+
 Rewards (none gui) : hit wall - out of board - taking flag / n(flags) win ????
 
 ## Results 
