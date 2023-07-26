@@ -50,5 +50,7 @@ learned faster. increasing alpha also increased the values in qtable.
 
 ## Problems 
 ??? what to do with impossible mazes ???
+
 ??? find the best route to reach goal form Qtable ???
+
 ??? best numbers to use ???
