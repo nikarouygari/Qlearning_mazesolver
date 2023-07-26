@@ -12,10 +12,15 @@ agent from getting stock in a loop.
 
 ## what are the files in this zip file 
 no_gui_bothmazes.py : this is a non_gui version of the code.
+
 Inputs : none
+
 Out puts : 4x4 maze and its q table , 10x10 maze and its qtable after running episodes
+
 gui_4x4_maze.py : this is the GUI version of the code for a 4x4 maze.
+
 gui_10x10_maze.py : this is the GUI version for the 10x10 example in the assignment.
+
 mazes.py : contains given mazes
 
 ## How the code runs 
