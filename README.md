@@ -39,7 +39,7 @@ solves a given 4x4 and 10x10 mazes by training agent and draws the Qtable. (in p
     values after episodes.(best action was hitting a wall!) agent with higher alpha values 
     learned faster. increasing alpha also increased the values in qtable. 
 
-# Problems ------------------------------------------------------------------------------------------
+# Problems 
     ??? what to do with impossible mazes ???
     ??? find the best route to reach goal form Qtable ???
     ??? best numbers to use ???
