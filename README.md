@@ -5,7 +5,7 @@ The purpose of this assignment is to first define the problem of an agent stock 
 trying to scape, which includes defining states actions rewards and goal states. 
 and then to train the agent by applying q learning. this is done by creating a qtable and 
 updating it after each action using the qlearning equation.
-q table is basically a map for to see what's the best action in a given state.
+q table is basically a map to see what's the best action in a given state.
 agent then can start to play the maze by using the stimulated annealing algorithm to decide 
 the best move and the qtable as the heuristic. stimulated annealing is used to keep the 
 agent from getting stock in a loop.
