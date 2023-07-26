@@ -10,7 +10,7 @@ agent then can start to play the maze by using the stimulated annealing algorith
 the best move and the qtable as the heuristic. stimulated annealing is used to keep the 
 agent from getting stock in a loop.
 
-## what are the files in this zip file 
+## The files 
 no_gui_bothmazes.py : this is a non_gui version of the code.
 
 Inputs : none
